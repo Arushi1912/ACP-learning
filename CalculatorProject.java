@@ -6,20 +6,19 @@ public class CalculatorProject {
 		System.out.println("===========================");
 		System.out.println("Enter Two  Number for Basic Airthmetic opertaion");
 		Scanner scan = new Scanner(System.in);
-<<<<<<< HEAD
         int a = scan.nextInt();
         int b = scan.nextInt();
         System.out.println(a);
-        System.out.println(b);
-        pavan
-		
-=======
+        System.out.println(b);	
+		//hello //e
+		aag
+		pavan 2
 		int a = scan.nextInt();
 		int b = scan.nextInt();
 		System.out.println(a);
 		System.out.println(b);
-		pow(a, b);
->>>>>>> 11f3dfc2a68c2d566e0207001e9245ed6ffb7a61
+		pow(a, 3);
+
 	}
 
 	public static void pow(final int a, final int b)
